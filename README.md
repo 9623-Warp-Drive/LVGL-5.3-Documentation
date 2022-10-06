@@ -9,7 +9,7 @@ Main repository: https://github.com/littlevgl/lvgl
 
 The documentation is available in:
 - **HTML** format: https://9623-warp-drive.github.io/LVGL-5.3-Documentation/
-- **PDF** format: https://github.com/littlevgl/docs/tree/master/pdf
+- **PDF** format: https://github.com/9623-Warp-Drive/LVGL-5.3-Documentation/blob/main/pdf/LittlevGL_documentation_English.pdf
 
 # How to use this documentation
 
