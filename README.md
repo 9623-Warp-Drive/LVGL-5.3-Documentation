@@ -1,6 +1,7 @@
 # Welcome to the documentation page of LittlevGL
 *RE UPLOADED BY ALEXPLAYSVR FROM 9623 WARP DRIVE ROBOTICS*
-*NOT PROPERTY OF WARP DRIVE ALL CREDIT GOES TO Littlevgl
+*NOT PROPERTY OF WARP DRIVE ALL CREDIT GOES TO Littlevgl*
+
 LittlevGL is a free and open-source graphics library providing everything you need to create an embedded GUI with easy-to-use graphical elements, beautiful visual effects and a low memory footprint.
 
 Website: https://littlevgl.com/   
